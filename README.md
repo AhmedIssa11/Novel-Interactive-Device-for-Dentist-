@@ -8,8 +8,9 @@ Hand gesture is a very natural form of human interaction and can be used effecti
 Speech recognition technology is a kind of technology that provides a communication between a man and machine. Much of the focus in this area has been on creating better technical speech recognition (SR) systems, and almost all of the testing has centered on accuracy and productivity gains.
 	
 - Laser Pointer:
-Edge detection plays a role in recognizing the dimensions of facial features, which means that higher percentage of specific dimensions indicates the existence of feature. On that account, edges of facial features are marked up by tiny circles
+Edge detection plays a role in recognizing the dimensions of facial features, which means that higher percentage of specific dimensions indicates the existence of feature. On that account, edges of facial features are marked up by tiny circles.
 
+youtube video : https://youtu.be/x17wuBM2PEg
 
 
 
