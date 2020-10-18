@@ -1,0 +1,9 @@
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\obj\Debug\voiceCommand2.csprojAssemblyReference.cache
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\obj\Debug\voiceCommand2.Form1.resources
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\obj\Debug\voiceCommand2.Properties.Resources.resources
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\obj\Debug\voiceCommand2.csproj.GenerateResource.cache
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\bin\Debug\voiceCommand2.exe.config
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\bin\Debug\voiceCommand2.exe
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\bin\Debug\voiceCommand2.pdb
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\obj\Debug\voiceCommand2.exe
+C:\Users\Ahmed Issa\source\repos\voiceCommand2\voiceCommand2\obj\Debug\voiceCommand2.pdb
